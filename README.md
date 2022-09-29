@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kevin Santos
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Computer Science
-- 📫 How to reach me kevin_0107@hotmail.com
+- 📫 How to reach me kkevin.curado.001@student.uni.lu
 
 <!---
 Kevin-Curado-Santos/Kevin-Curado-Santos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
