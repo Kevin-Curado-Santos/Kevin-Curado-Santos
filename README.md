@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kevin Santos
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’m currently on my third year of Computer Science
 - 📫 How to reach me kevin.curado.001@student.uni.lu
 
 <!---
